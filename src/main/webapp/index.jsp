@@ -7,7 +7,7 @@
 <tr>
 <td width="150"> &nbsp; </td>
 <td width="550">
-<h1>My name is eXo. What's yours?</h1>
+  <h1 style="color:red">My name is eXo. What's yours?</h1>
 </td>
 </tr>
 <tr>
